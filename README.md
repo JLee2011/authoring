@@ -16,7 +16,7 @@ External link to [GitHub](https://help.github.com/en)
 ---
 ## Images
 
-click to go to [images folder](/Pictures)
+click to go to [images folder](/images/)
 
 ![warth](https://user-images.githubusercontent.com/99728247/154974665-4dc91c2d-ae63-42d8-b8a5-a4ec88a8191b.jpeg)
 
